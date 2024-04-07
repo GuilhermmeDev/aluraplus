@@ -1,0 +1,19 @@
+@media (max-width: 1500px) {
+    .container__caixa {
+        margin-top: 9vh;
+    }
+
+    .container__img {
+        margin: 5em 0 2em 0;
+    }
+
+    .secundario__img {
+        margin: 0 5em 0 5em;
+    }
+
+    .container__descricao {
+        margin-right: 5em;
+    }
+}
+
+
